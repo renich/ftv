@@ -1,8 +1,9 @@
 *.gem
 *.rbc
 /.config
-/coverage/
 /InstalledFiles
+/coverage/
+/old/
 /pkg/
 /spec/reports/
 /test/tmp/
