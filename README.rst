@@ -1,6 +1,10 @@
 FTV
 ---
 
+Disclaimer
+==========
+This thing is not working yet; do not use it! I've just started developing it!
+
 Description
 ===========
 ftv (fuck the video) is designed for the musician who doesn't want to make videos out of his music; but aknowledges the need to do
