@@ -3,10 +3,12 @@ require File.join( [ File.dirname( __FILE__ ), 'lib', 'ftv', 'version.rb' ] )
 
 spec = Gem::Specification.new do |s| 
     s.name = 'ftv'
+    s.date = '2014-12-23'
     s.version = Ftv::VERSION
     s.author = 'Renich Bon Ciric'
     s.email = 'renich@woralelandia.com'
     s.homepage = 'http://woralelandia.com/'
+    s.license = 'GPVv3'
     s.platform = Gem::Platform::RUBY
     s.summary = %q{ftv (fuck the video) is designed for the musician who doesn't want to make videos out of his music; but aknowledges the need to do so and publish in the mainstream video publishers.
 
