@@ -1,0 +1,5 @@
+= ftv
+
+Generate this with
+    ftv rdoc
+After you have described your command line interface
