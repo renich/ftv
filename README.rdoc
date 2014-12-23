@@ -1,4 +1,4 @@
-= disclaimer
+= Disclaimer
 
 This thing is not working yet; do not use it! I've just started developing it!
 
